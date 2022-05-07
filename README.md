@@ -1,3 +1,11 @@
+# Official Jokes App Remix Tutorial with atomic step-by-step commits
+
+- [Official Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes#jokes-app-tutorial)
+- Atomic commits made for each tutorial section
+- Any errors or omissions are my own
+
+---
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
