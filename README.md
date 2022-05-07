@@ -2,7 +2,7 @@
 
 - [Official Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes#jokes-app-tutorial)
 - Live Stream the whole 6-hour tutorial with Kent: [Remix Tutorial with Kent](https://www.youtube.com/watch?v=hsIWJpuxNj0)
-- Atomic commits made for each tutorial section
+- Atomic commits made for each tutorial section on my repo here
 - Any errors or omissions are my own
 
 ---
