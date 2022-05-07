@@ -1,8 +1,9 @@
-# Official Jokes App Remix Tutorial with atomic step-by-step commits
+**Official Jokes App Remix Tutorial with atomic step-by-step commits**
 
-- [Official Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes#jokes-app-tutorial)
-- Live Stream the whole 6-hour tutorial with Kent: [Remix Tutorial with Kent](https://www.youtube.com/watch?v=hsIWJpuxNj0)
-- Atomic commits made for each tutorial section on my repo here
+- Current up-to-date [Official Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes#jokes-app-tutorial)
+- Nov 2021: Live Stream the whole 6-hour tutorial with Kent: [Remix Tutorial with Kent](https://www.youtube.com/watch?v=hsIWJpuxNj0)
+  - Nov 2021: Original Github Repo [kentcdodds / remix-tutorial-walkthrough](https://github.com/kentcdodds/remix-tutorial-walkthrough)
+- Atomic commits made for each tutorial section on my repo here as of May 9, 2022
 - Any errors or omissions are my own
 
 ---
