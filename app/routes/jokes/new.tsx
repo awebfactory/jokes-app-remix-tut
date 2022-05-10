@@ -1,9 +1,9 @@
-import type { ActionFunction } from "@remix-run/node"
+import type { ActionFunction, LoaderFunction } from "@remix-run/node"
 import { json, redirect } from "@remix-run/node"
 import { useActionData, useCatch, Link } from "@remix-run/react"
 
 import { db } from "~/utils/db.server"
-import { requireUserId } from "~/utils/session.server"
+import { requireUserId, getUserId } from "~/utils/session.server"
 
 export const loader: LoaderFunction = async ({ request }) => {
   const userId = await getUserId(request)
